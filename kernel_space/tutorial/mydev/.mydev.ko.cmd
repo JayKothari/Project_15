@@ -1,0 +1,1 @@
+cmd_/root/XENO_WS/linux-3.8.13/drivers/char/tutorial/mydev/mydev.ko := ld -r -m elf_i386 -T /root/XENO_WS/linux-3.8.13/scripts/module-common.lds --build-id  -o /root/XENO_WS/linux-3.8.13/drivers/char/tutorial/mydev/mydev.ko /root/XENO_WS/linux-3.8.13/drivers/char/tutorial/mydev/mydev.o /root/XENO_WS/linux-3.8.13/drivers/char/tutorial/mydev/mydev.mod.o
